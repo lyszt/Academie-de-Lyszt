@@ -1,7 +1,7 @@
 # Site de CC da UFFS
 ## Informações relevantes
 - O site da UFFS saiu do design original e se tornou open source em meados de 2020. (Fonte: [YOUTUBE:  Novo site do curso com visual dark mode! - Nov 12, 2020 ](https://www.youtube.com/watch?v=j7F41W3XPhw))
-- Visualmente, o site mudou pouco desde a implementação.
+- Visualmente, o site mudou pouco desde a mudança de 2020.
 ## Links úteis
 - [Guia de Identidade Visual](https://cc.uffs.edu.br/noticias/2020/11/05/identidade-visual/)
 # Site de CC em Novembro de 2016
