@@ -6,7 +6,7 @@
 
 Tipo | Título | Descrição | # | | # | # |  #| #|  | # | #
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Feature | Seção de Educação | Vi no site antigo que eventos e dicas eram divulgados no site da página. Seria possível fazer uma seção baseada no GitHub Education focada em dar dicas e auxiliar novos alunos e divulgar lives e eventos? (Imagino que deve existir um guia assim no próprio GitHub. | --- |--- |--- |--- |--- |--- |--- |--- |---
+Feature | Seção de Educação | Vi no site antigo que eventos e dicas eram divulgados no site da página. Seria possível fazer uma seção baseada no GitHub Education focada em dar dicas e auxiliar novos alunos e divulgar lives e eventos? (Imagino que deve existir um guia assim no próprio GitHub feito por alunos. Se sim, devo procurar. | --- |--- |--- |--- |--- |--- |--- |--- |---
 
 ## Highlights das versões antigas do site
 ### 540 exercícios para praticar programação (CC.UFFS.EDU.BR)
