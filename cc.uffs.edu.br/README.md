@@ -1,4 +1,6 @@
-
+# Site de CC da UFFS
+## Links úteis
+- [Guia de Identidade Visual](https://cc.uffs.edu.br/noticias/2020/11/05/identidade-visual/)
 # Site de CC em Novembro de 2016
   ![image](https://github.com/lyszt/Estudos-de-caso/assets/116316121/5c431464-07c3-47a6-a78c-519bd9e5cb2f)
 
