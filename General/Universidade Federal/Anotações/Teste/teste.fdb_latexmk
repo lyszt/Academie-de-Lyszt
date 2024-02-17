@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1708155104.95998 "c:/Users/Laptop/Documents/Lygon/Tecnologia/Estudos/General/Universidade Federal/Anotações/Teste/teste.tex" "teste.pdf" "teste" 1708155105.97699 0
+["pdflatex"] 1708156898.15008 "c:/Users/Laptop/Documents/Lygon/Tecnologia/Estudos/General/Universidade Federal/Anotações/Teste/teste.tex" "teste.pdf" "teste" 1708156899.37174 0
   "C:/Users/Laptop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1708152301 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Laptop/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1708153052 24230627 d2b4f013bcad0f64b72a2f6d88186b7c ""
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -23,13 +23,23 @@
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg" 1616067285 584 2a1075dd71571459f59146da9f7502ad ""
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1705273579 20144 147463a6a579f4597269ef9565205cfe ""
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1705273578 5048 425739d70251273bf93e3d51f3c40048 ""
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1705273578 8464 59874a3b0776c73e2a138b025d8473dd ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cfg" 1465894292 1224 978390e9c2234eab29404bc21b268d1e ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/pdftex.def" 1663918690 19448 1e988b341dda20961a6b931bcde55519 ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty" 1665067579 18387 8f900a490197ebaf93c02ae9476d4b09 ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty" 1665067579 8010 a8d949cbdbc5c983593827c9eec252e1 ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/Laptop/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "c:/Users/Laptop/Documents/Lygon/Tecnologia/Estudos/General/Universidade Federal/Anotações/Teste/teste.tex" 1708155103 732 ed9a73b42d4b13b64ea0a9cbb25c5ab2 ""
-  "teste.aux" 1708155105 233 8b59d901eedacaeff0df63618761f11f "pdflatex"
-  "teste.tex" 1708155103 732 ed9a73b42d4b13b64ea0a9cbb25c5ab2 ""
+  "c:/Users/Laptop/Documents/Lygon/Tecnologia/Estudos/General/Universidade Federal/Anotações/Teste/teste.tex" 1708156897 925 4b33ca864f2dc1d6b5e4435abca31939 ""
+  "cover.jpg" 1708155588 129216 9c8a0955ee36bc21ab8c20b7015383cd ""
+  "teste.aux" 1708156899 319 b3a711b27b553ef1c87616b7454d7058 "pdflatex"
+  "teste.tex" 1708156897 925 4b33ca864f2dc1d6b5e4435abca31939 ""
   (generated)
   "teste.aux"
   "teste.log"
