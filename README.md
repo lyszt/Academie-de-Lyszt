@@ -2,6 +2,7 @@
 --
 ### SCIENTIA IMPERII DECUS ET TUTAMEN
 
+![Victorian London](https://i.pinimg.com/564x/49/8f/24/498f2486dbbb654c88648087d48386d0.jpg)
 
 — **Qui aimes-tu le mieux, homme énigmatique, dis ? ton père, ta mère, ta sœur ou ton frère ?**  
 — Je n’ai ni père, ni mère, ni sœur, ni frère.  
@@ -18,7 +19,6 @@
 
 Charles Baudelaire, Petits poèmes en prose, 1869
 
-![Victorian London](https://i.pinimg.com/564x/49/8f/24/498f2486dbbb654c88648087d48386d0.jpg)
 
 
 If you're expecting polished code, you're in the wrong place. But if you're here for nonsensical programming experiments and chaotic learning, you’ve come to the right place.
