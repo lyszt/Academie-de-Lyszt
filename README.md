@@ -18,18 +18,9 @@
 
 Charles Baudelaire, Petits poèmes en prose, 1869
 
-
-
-If you're expecting polished code, you're in the wrong place. But if you're here for nonsensical programming experiments and chaotic learning, you’ve come to the right place.
-
-TL;DR
-This is where I mess around wit
 ## What this is:
 
 ### 1. Random Tests: 
-This section is dedicated to random programming experiments that probably don't make sense to anyone except me.
+This section is dedicated to random programming experiments that probably don't make sense to anyone except me. Code that might solve problems, but also might summon Cthulhu.
 
-- 🔧 Shenanigans: Code that might solve problems, but also might summon Cthulhu.
-
-### 2. Courses I've Done Because I'm a Nerd
 
