@@ -18,9 +18,10 @@
 
 Charles Baudelaire, Petits poèmes en prose, 1869
 
-## What this is:
-
-### 1. Random Tests: 
 This section is dedicated to random programming experiments that probably don't make sense to anyone except me. Code that might solve problems, but also might summon Cthulhu.
 
-
+# Current ideas
+Name | Language | Description |
+--- | --- | --- |
+Scarlet Gateway II | HTML + Javascript or HTML + Javascript & Frameworks | What if we recreated the Scarlett Gateway, but inside our portfolio website? Sadly of course, Github Pages doesn't allow for PHP and other back-end related services, so certain aspects are impossible. If we find another way, it might be more effective. |
+Providence of Providentia | Python | Remake Providentia, renew her code to be more class based and get some stuff inspired by Master Sara. Providentia Magnata should finally be build with its real purpose: Spy all servers she's in in discord, add it to a database and made data analysis of all members. Make defenses in our own server based on what she knows about people and make her dedicated to just one server: The empire of Lygon. In all others she's nothing but spyware. 
