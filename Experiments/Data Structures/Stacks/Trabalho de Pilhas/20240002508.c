@@ -35,9 +35,11 @@ void pop(Stack *target) {
 void freeAll(Stack *to_free) {
     while(to_free->top != NULL) {
         Node *target = to_free->top;
+        printf("!");
         to_free->top = to_free->top->previous;
         free(target);
     }
+    printf("\n");
 }
 
 void browsingHistory(Stack *history) {
@@ -68,6 +70,11 @@ int main() {
             push(input, &history);
         }
     }
-    freeAll(&history);
+    if(history.top != NULL) {
+        freeAll(&history);
+    }
+    else {
+        printf("OK\n");
+    }
     return 0;
 }
