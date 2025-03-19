@@ -57,10 +57,23 @@ void copyTo(char *origin, char *destination){
       fclose(forigin);
 }
 
+void editFile(char * filename) {
+    printf("Editando arquivo...");
+    char input[50];
+    printf("Insira um texto:\n");
+    scanf("%s", input);
+    FILE *f = fopen(filename, "a");
+    fputc(' ', f);
+    fputs(input, f);
+    printf("Adicionou a frase %s\n", input);
+    fclose(f);
+}
+
 int main(){
   int word_count = word_counter("input.txt");
   printf("Número de palavras no arquivo: %i\n", word_count);
   copyTo("input.txt","output.txt");
+    editFile("output.txt");
 
   return 0;
 
