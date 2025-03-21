@@ -68,13 +68,25 @@ void editFile(char * filename) {
     printf("Adicionou a frase %s\n", input);
     fclose(f);
 }
+void readBySLetter(char *filename, const char query) {
+    FILE *f = fopen(filename,"r");
+    int max_len = 256;
+    char line[max_len];
+    while (fgets(line, max_len, f)) {
+        if (line[0] == query) {
+            printf("%s\n", line);
+        }
+    }
+
+    fclose(f);
+}
 
 int main(){
   int word_count = word_counter("input.txt");
   printf("Número de palavras no arquivo: %i\n", word_count);
   copyTo("input.txt","output.txt");
     editFile("output.txt");
-
+    readBySLetter("input.txt", 'b');
   return 0;
 
 
