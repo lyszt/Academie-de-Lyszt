@@ -41,6 +41,25 @@ int char_counter(char* filename){
     fclose(f);
     return counter;
 }
+
+int specific_char_counter(char* filename){
+    int counter;
+    char c;
+    char query;
+    printf("Qual caractere você quer encontrar?\n");
+    scanf("%c", &query);
+    counter = 0;
+    FILE *f = fopen(filename, "r");
+    while((c = fgetc(f)) != EOF){
+        if (c == query) {
+            counter++;
+        }
+    }
+    printf("Terminou contagem de caracteres...");
+    fclose(f);
+    return counter;
+}
+
 void copyTo(char *origin, char *destination){
       printf("Copiando input para output...\n");
 
@@ -82,11 +101,19 @@ void readBySLetter(char *filename, const char query) {
 }
 
 int main(){
+    //1
   int word_count = word_counter("input.txt");
+    // 2
   printf("Número de palavras no arquivo: %i\n", word_count);
+    // 3
   copyTo("input.txt","output.txt");
+    // 4
     editFile("output.txt");
+    // 5
     readBySLetter("input.txt", 'b');
+    // 6
+    specific_char_counter("input.txt");
+    // Erro no buffer por causa de scanf
   return 0;
 
 
