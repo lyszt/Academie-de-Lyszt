@@ -47,7 +47,8 @@ int specific_char_counter(char* filename){
     char c;
     char query;
     printf("Qual caractere você quer encontrar?\n");
-    scanf("%c", &query);
+    scanf("%*[^\n]%c", &query);
+    // porcaria total lmao
     counter = 0;
     FILE *f = fopen(filename, "r");
     while((c = fgetc(f)) != EOF){
